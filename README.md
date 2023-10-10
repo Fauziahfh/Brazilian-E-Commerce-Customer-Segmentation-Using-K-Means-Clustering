@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Customer Segmentation Using K-Means Clustering
+# Brazilian E-Commerce Customer Segmentation using K-Means Clustering & RFM Model
 
 Tool: Jupyter Notebook
 
